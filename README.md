@@ -1,10 +1,11 @@
+# Hello! I'm am Rafael Stainhaus 👋
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-PostreSQL" height="30" width="40" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png">
-</div>
+## Abount me!
+
+I am Rafael and i'm 21-years-old, Software Engineering graduated at Fag University in Cascavel, PR. I'm really into technology and always excited to learn something new. I'm super dedicated to my studies and love working on projects that solve everyday problems. Whether it’s coding an app or exploring the latest tech trends, I’m all about finding creative ways to apply what I’ve learned and make things better.
+
+## Skills :computer:
+
+These are some of my skills that I acquired in my career
+
+![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,java,postgres,figma,github,git,vscode,idea)
